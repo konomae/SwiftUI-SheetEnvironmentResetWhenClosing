@@ -4,3 +4,7 @@
 - iOS 14.5
 
 ![demo](https://user-images.githubusercontent.com/1920783/116803534-6b8d7500-ab53-11eb-9006-5b61daea39b6.gif)
+
+## Update
+
+- Fixed in Xcode 13.0 beta 5
